@@ -1,0 +1,6 @@
+The line 1 defines a function named sum_of_natnum that takes one parameter n.
+A variable called sum is initialized to 0. This variable will store the sum of natural numbers.
+For loop iterates over a sequence of numbers starting from 1 and ending at n.
+For each number i in this range, the loop adds i to the current value of sum. 
+Assigns the value 10 to the variable n. You can change this value to any other positive integer to calculate the sum
+The line calls the sum_of_natnum function with the argument n and prints the result
