@@ -1,4 +1,0 @@
-The line 1 and 2 prompt the user to input two floating-point numbers, f1 and f2.
-Both f1 and f2 are multiplied by 1000 to shift the decimal point three places to the right. 
-This essentially retains the first three decimal places and then converts the resulting value to an integer.
-Finally,by using if-else conditon the code compares the two integer values (n1 and n2), If they are equal, it prints "True" otherwise, it prints "False".
